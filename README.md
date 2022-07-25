@@ -29,6 +29,6 @@ Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝. I love learning n
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=akhilkammila&theme=dark&show_icons=true)
 
-Thanks for checking out my profile! See my hackathon-submitted projects [here](https://devpost.com/akhilkammila)
+Thanks for checking out my profile! See my hackathon-submitted projects [here](https://devpost.com/akhilkammila)! 🙂
 
 ![](https://komarev.com/ghpvc/?username=akhilkammila&color=red)
