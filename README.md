@@ -13,17 +13,32 @@ Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝. I love learning n
 - ⚡️ Success is not final, failure is not fatal: it is the courage to continue that counts.
 - 📫 How to reach me: akhilkammila@gmail.com
 
-**Languages and Tools:**  
+**Languages and Tools:**
+<!--- React -->
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></code>
+<!--- Python -->
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/visualstudio/visualstudio-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<!--- Javascript -->
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+
+<!--- Java -->
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
+
+<!--- Tensorflow -->
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"></code>
+
+<!--- Flask -->
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"></code>
+
+<!--- VSCode -->
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"></code>
+
+<!--- Git -->
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
+
+<!--- Terminal -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 
