@@ -1,6 +1,6 @@
 ### Hi there 👋🏽, I'm [Akhil](https://www.linkedin.com/in/akhilkammila/)
 
-Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝. I love creating awesome ML projects, specificly in React and Flutter.
+Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝. I love creating awesome ML projects, specificly in React and Flutter!
 
 <img align="right" alt="GIF" src="https://j.gifs.com/83l135.gif" />
 
@@ -31,7 +31,7 @@ Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝. I love creating a
 <!--- MATLAB --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
 <!--- VSCode --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"></code>
 <!--- Git --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
-<!--- Terminal --> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<!--- Terminal --> <!---<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>-->
 
 
 
