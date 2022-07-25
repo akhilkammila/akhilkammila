@@ -1,6 +1,6 @@
 ### Hi there 👋🏽, I'm [Akhil](https://www.linkedin.com/in/akhilkammila/)
 
-Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝. I love learning new frameworks and creating awesome ML projects, specificly in React and Flutter.
+Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝. I love creating awesome ML projects, specificly in React and Flutter.
 
 <img align="right" alt="GIF" src="https://j.gifs.com/83l135.gif" />
 
@@ -38,6 +38,6 @@ Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝. I love learning n
 <br/><br/>
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=akhilkammila&theme=dark&show_icons=true)
 
-Thanks for checking out my profile! See my hackathon-submitted projects [here](https://devpost.com/akhilkammila)! 🙂
+Thanks for checking out my profile! See my hackathon-submitted projects [here](https://devpost.com/akhilkammila) 🙂
 
 ![](https://komarev.com/ghpvc/?username=akhilkammila&color=red)
