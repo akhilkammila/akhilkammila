@@ -1,6 +1,6 @@
 ### Hi there 👋🏽, I'm [Akhil](https://www.linkedin.com/in/akhilkammila/)
 
-Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝. I love creating awesome ML projects, specificly in React and Flutter!
+Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝. I love creating awesome ML projects, specifically in React!
 
 <img align="right" alt="GIF" src="https://j.gifs.com/83l135.gif" />
 
