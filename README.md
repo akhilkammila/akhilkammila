@@ -1,16 +1,14 @@
 ### Hi there 👋🏽, I'm [Akhil](https://www.linkedin.com/in/akhilkammila/)
 
-Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝. I love creating awesome projects, usually in React!
+Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝!
 
 <img align="right" alt="GIF" src="https://j.gifs.com/83l135.gif" />
 
-**More About Me?**
+**About Me**
 
-- 👨🏽‍💻 I am currently exploring mobile app development through React Native and Flutter
-- 🌱 I am trying to compete in as many upcoming hackathons as possible
-- 💬 Reach out to me if you want to collab on a project, or for anything else
+- ⚡️ I am always working on projects with friends or learning new frameworks in my free time
 - 🏀 I love playing basketball, tennis, football, ping pong, spikeball – pretty much every sport
-- ⚡️ I also love learning new frameworks and working on projects with friends
+- 💬 Reach out to me if you want to collab on a project, or for anything else
 - 📫 How to reach me: akhilkammila@gmail.com
 
 **Languages and Tools:**
