@@ -4,7 +4,7 @@ Hi, I'm Akhil Kammila, a CS undergrad at Georgia Tech.
 
 **About Me**
 
-- ⚡️ I am always working on projects with friends or learning new frameworks in my free time
+- ⚡️ I am always working on projects with friends in my free time
 - 🏀 I love playing basketball, tennis, football, ping pong, spikeball – pretty much every sport
 - 💬 Reach out to me if you want to collab on a project, or for anything else
 - 📫 How to reach me: akhilkammila@gmail.com
