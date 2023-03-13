@@ -1,8 +1,6 @@
 ### Hi there 👋🏽, I'm [Akhil](https://www.linkedin.com/in/akhilkammila/)
 
-Hi, I'm Akhil Kammila, a SWE and student at Georgia Tech 🐝!
-
-<img align="right" alt="GIF" src="https://j.gifs.com/83l135.gif" />
+Hi, I'm Akhil Kammila, a CS undergrad at Georgia Tech.
 
 **About Me**
 
